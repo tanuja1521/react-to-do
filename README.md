@@ -1,2 +1,2 @@
 # react-to-do
-Created with CodeSandbox
+Basic To do App made with React.js
